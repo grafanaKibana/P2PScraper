@@ -1,0 +1,11 @@
+{
+    "AppConfig": {
+        "P2PAccountName": "",
+        "NotificationIntervalInMinutes": 30,
+
+        "TelegramConfig": {
+            "BotToken": "",
+            "ChatId": ""
+        }
+    }
+}

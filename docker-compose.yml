@@ -1,0 +1,6 @@
+﻿services:
+  p2pscraper:
+    image: p2pscraper
+    build:
+      context: .
+      dockerfile: P2PScraper/Dockerfile
